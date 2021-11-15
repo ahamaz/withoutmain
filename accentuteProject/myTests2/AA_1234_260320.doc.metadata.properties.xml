@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+  <entry key="type">cm:content</entry>
+  <entry key="aspects">cm:versionable</entry>
+  <entry key="cm:title">High Court Order Document</entry>
+  <entry key="cm:description">Uploaded via HCO Bulk Tool</entry>
+  <entry key="cm:author"> </entry>
+  <entry key="cm:created">2020-03-26</entry>
+  <entry key="cm:owner">Administrator</entry>
+  <entry key="acn:HCOCaseType">AA</entry>
+  <entry key="acn:HCOCaseNumber">1234</entry>
+  <entry key="acn:HCOCaseDate">260320</entry>
+</properties>
